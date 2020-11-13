@@ -1,11 +1,4 @@
-package com.netease.music.musician.backend.web.controller.production.check;
 
-/**
- * Created by zhangweilong on 2020/11/13
- *
- * @author zhangweilong@corp.netease.com
- * @since 2020/11/13
- */
 public class PE387 {
     static long result = 0;
     static long LIMIT = 100_0000_0000_0000L;
